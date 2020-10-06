@@ -1,2 +1,3 @@
 # Ceasar_cipher
-An example of decrypt Ceasar's Cipher encryption using C
+## Course assignment of Real Time Operating System
+An example of decrypting Ceasar's Cipher encryption using C
